@@ -7,23 +7,23 @@
 
 # Site settings
 title: Fiatalok Kulurális Pont Egyesület
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Phantom theme by HTML5 UP.
+email: istvan.lechner@goldconsulting.eu
+description: Ifjúsági egyesület
 baseurl: "/fkpe" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
-font-awesome-icon-logo:
+font-awesome-icon-logo: users
 
 # Social settings
-github_username: andrewbanchich
-twitter_username: andrewbanchich
-facebook_URL: andrewbanchich
-instagram_username: andrewbanchich
-dribbble_username: andrewbanchich
-500px_username: andrewbanchich
-phone: 555-5555
+github_username: 
+twitter_username: 
+facebook_URL: 
+instagram_username: 
+dribbble_username: 
+500px_username: 
+phone: 
 
 # Build settings
 markdown: kramdown
