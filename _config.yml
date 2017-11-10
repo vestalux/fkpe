@@ -13,7 +13,7 @@ baseurl: "/fkpe" # the subpath of your site, e.g. /blog
 url: "https://vestalux.github.io/" # the base hostname & protocol for your site
 
 # Logo settings
-logo-image-url: images/logo.svg
+logo-image-url: images/fkpe.svg
 font-awesome-icon-logo: 
 
 # Social settings
