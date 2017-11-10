@@ -8,4 +8,4 @@ date:   2016-07-16 12:00:00 -0400
 <div class="4u"><span class="image fit"><img src="{{ site.baseutl }}/images/kifli1.JPG" alt="" /></span></div>
 
 ![](/images/kifli1.JPG)
-![my photo]({{ site.url }}/({{ site.baseurl }}/images/kifli1.JPG)
+![my photo]({{ site.url | site.baseurl }}/images/kifli1.JPG)
