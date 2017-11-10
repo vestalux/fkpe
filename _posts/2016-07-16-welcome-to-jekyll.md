@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Camp 2013"
+title:  "Kifli"
 date:   2017-10-11 12:00:00 -0400
 image: "kifli2.JPG"
 ---
