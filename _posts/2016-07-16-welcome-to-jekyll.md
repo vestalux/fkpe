@@ -7,7 +7,7 @@ date:   2016-07-16 12:00:00 -0400
 
 <div class="box alt">
 <div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="{{ '/images/' | prepend: site.baseurl}}kifli1.JPG.jpg" alt="" /></span></div>
+<div class="12u$"><span class="image fit"><img src="{{ '/images/' | prepend: site.baseurl}}kifli1.JPG" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="{{ '/images/' | prepend: site.baseurl}}kifli2.JPG" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="{{ '/images/' | prepend: site.baseurl}}kifli3.JPG alt="" /></span></div>
 <div class="4u$"><span class="image fit"><img src="{{ '/images/' | prepend: site.baseurl}}kifli4.JPG alt="" /></span></div>
