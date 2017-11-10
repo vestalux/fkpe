@@ -2,7 +2,7 @@
 layout: page
 title:  "Kifli"
 date:   2016-07-16 12:00:00 -0400
-image: kifli2.JPG
+image: "kifli2.JPG"
 ---
 <p>Kopácson az ijúsági szakpoilita és szakemberek találkozóján egyesületünk is képviseltette magát. </p>
 
