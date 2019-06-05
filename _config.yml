@@ -1,32 +1,34 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+baseurl: ''
+exclude: ['README.md']
+permalink: pretty
+title: 'Jekyll Serif'
 
-# Site settings
-title: Fiatalok Kulurális Pont Egyesület
-email: istvan.lechner@goldconsulting.eu
-description: Ifjúsági egyesület
-baseurl: "/fkpe" # the subpath of your site, e.g. /blog
-url: "https://vestalux.github.io/" # the base hostname & protocol for your site
+collections:
+  services:
+    output: true
+    permalink: /services/:path/
+  team:
+    output: true
+    permalink: /team/:path/
+  testimonials:
+    output: true
+    permalink: /testimonials/:path/
 
-# Logo settings
-logo-image-url: images/fkpe.svg
-font-awesome-icon-logo: 
+defaults:
+  - scope:
+      type: services
+    values:
+      layout: service
+      bodyClass: page-services-single
+  - scope:
+      path: 'images'
+    values:
+      image: true
 
-# Social settings
-github_username: 
-twitter_username: 
-facebook_URL: 
-instagram_username: 
-dribbble_username: 
-500px_username: 
-phone: 
+sass:
+  style: compact # possible values: nested expanded compact compressed
 
-# Build settings
-markdown: kramdown
+google_analytics_id: null
 
-# Layout settings
-home-link-in-menu: yes
+plugins:
+  - jekyll-environment-variables
