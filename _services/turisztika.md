@@ -1,5 +1,5 @@
 ---
-title: 'Business Advisory'
+title: 'Turisztika'
 image: '/services/default.png'
 ---
 

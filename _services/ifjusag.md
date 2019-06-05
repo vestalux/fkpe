@@ -1,11 +1,9 @@
 ---
-title: "Superannuation"
-image: "/services/default.png"
+title: 'Ifjusagpolitika'
+image: '/services/noun_591323.png'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Egyesületünk fontos feladata, hogy részt vegyen a ifjüságot érintő döntések előkészítésében és a szakpolitika támogatásában.
 
 ## Ne verba patulosque numen vix libet
 

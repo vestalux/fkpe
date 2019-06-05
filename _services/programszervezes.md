@@ -1,5 +1,5 @@
 ---
-title: 'Business Sales'
+title: 'Programszervezés'
 image: '/services/default.png'
 ---
 
