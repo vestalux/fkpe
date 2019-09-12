@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://oko-hungary.eu" # the base hostname & protocol for your site
+url: "http://fkpe.eu" # the base hostname & protocol for your site
 exclude: ['README.md']
 permalink: pretty
 title: 'Fiatalok Kulturalis Pont Egyesület'
